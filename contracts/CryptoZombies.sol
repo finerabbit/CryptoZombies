@@ -6,4 +6,8 @@ contract CryptoZombies is ZombieOwnership {
     function HelloWorld() external pure returns (string memory) {
         return "Wahaha!";
     }
+
+    function kill() public payable onlyOwner {
+        selfdestruct(address(uint160(owner())));
+    }
 }
