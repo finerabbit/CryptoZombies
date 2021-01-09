@@ -2227,7 +2227,7 @@
                               "name": "this",
                               "nodeType": "Identifier",
                               "overloadedDeclarations": [],
-                              "referencedDeclaration": 1489,
+                              "referencedDeclaration": 1491,
                               "src": "1322:4:9",
                               "typeDescriptions": {
                                 "typeIdentifier": "t_contract$_ZombieHelper_$1309",
@@ -4712,7 +4712,7 @@
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 1489,
+                                      "referencedDeclaration": 1491,
                                       "type": "contract ZombieHelper",
                                       "value": "this"
                                     },
@@ -4910,7 +4910,7 @@
   },
   "networks": {},
   "schemaVersion": "3.3.3",
-  "updatedAt": "2021-01-07T21:09:27.829Z",
+  "updatedAt": "2021-01-09T14:03:15.617Z",
   "devdoc": {
     "methods": {
       "isOwner()": {
