@@ -11,7 +11,7 @@ advanceTime = (duration) => {
       })
     })
 }
-  
+
 advanceBlock = () => {
     return new Promise((resolve, reject) => {
       web3.currentProvider.send({

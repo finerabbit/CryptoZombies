@@ -89,6 +89,10 @@ module.exports = {
     // timeout: 100000
   },
 
+  chai: {
+
+  },
+
   // Configure your compilers
   compilers: {
     solc: {
